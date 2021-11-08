@@ -10,7 +10,7 @@
 <br>
 <ul>
     <li>composer update</li>
-    <li>cp .env.example .env<li>
+    <li>cp .env.example .env</li>
     <li>php artisan key:generate</li>
     <li>php artisan serve</li>
 </ul>
