@@ -6,13 +6,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
-<b>To run project type :</b>
+<b>To run project run these commands :</b>
 <br>
 <ul>
     <li>composer update</li>
     <li>cp .env.example .env</li>
     <li>php artisan key:generate</li>
     <li>php artisan serve</li>
+    <li>Navigate to `http://localhost:8000/`</li>
 </ul>
 ## About Laravel
 
