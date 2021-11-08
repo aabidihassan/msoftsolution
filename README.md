@@ -13,7 +13,7 @@
     <li>cp .env.example .env</li>
     <li>php artisan key:generate</li>
     <li>php artisan serve</li>
-    <li>Navigate to `http://localhost:8000/`</li>
+    <li>Navigate to <a href="http://localhost:8000/">http://localhost:8000/</a></li>
 </ul>
 ## About Laravel
 
