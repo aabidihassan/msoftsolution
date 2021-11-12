@@ -12,13 +12,13 @@
 					<nav class="main-menu navbar-expand-md navbar-light">
 						<div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
 							<ul class="navigation clearfix">
-								<li class="dropdown"><a href="#home">Home</a></li>
+								<li class="dropdown"><a href="#home">Accueil</a></li>
+								<li class="dropdown"><a href="#about">A propos de nous</a></li>
 								<li class="dropdown"><a href="#services">Service</a></li>
-								<li class="dropdown"><a href="#portfolio">Portfolio</a></li>
+								<li class="dropdown"><a href="#portfolio">Réalisation</a></li>
+								<li class="dropdown"><a href="#team">Team</a></li>
 								<li class="dropdown"><a href="#contact">Contact</a></li>
-								<li class="dropdown"><a href="#carrers">Carrers</a></li>
-								<li class="dropdown"><a href="#blogs">Blogs</a></li>
-							
+								<li class="dropdown"><a href="#devis">Devis</a></li>
 							</ul>
 						</div>
 					</nav>
