@@ -12,7 +12,7 @@
 					<nav class="main-menu navbar-expand-md navbar-light">
 						<div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
 							<ul class="navigation clearfix">
-								<li class="dropdown"><a href="/">Home</a></li>
+								<li class="dropdown"><a href="#home">Home</a></li>
 								<li class="dropdown"><a href="#services">Service</a></li>
 								<li class="dropdown"><a href="#portfolio">Portfolio</a></li>
 								<li class="dropdown"><a href="#contact">Contact</a></li>
@@ -23,10 +23,6 @@
 						</div>
 					</nav>
                     <div class="mainmenu-seven__right">
-						<div class="search-btn mainmenu-seven__search">
-							<button type="button" class="theme-btn search-toggler"><span
-									class="flaticon-magnifying-glass"></span></button>
-						</div>
 						<div class="mainmenu-seven__right__toggler mobile-nav-toggler">
 							<span></span>
 							<span></span>
