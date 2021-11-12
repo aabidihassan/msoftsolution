@@ -13,14 +13,11 @@
 						<div class="collapse navbar-collapse show clearfix" id="navbarSupportedContent">
 							<ul class="navigation clearfix">
 								<li class="dropdown"><a href="/">Home</a></li>
-								<li class="dropdown">
-									<a href="/">Service</a>
-									
-								</li>
-								<li class="dropdown"><a href="">Portfolio</a></li>
-								<li class="dropdown"><a href="">Contact</a></li>
-								<li class="dropdown"><a href="">Carrers</a></li>
-								<li class="dropdown"><a href="">Blogs</a></li>
+								<li class="dropdown"><a href="#services">Service</a></li>
+								<li class="dropdown"><a href="#portfolio">Portfolio</a></li>
+								<li class="dropdown"><a href="#contact">Contact</a></li>
+								<li class="dropdown"><a href="#carrers">Carrers</a></li>
+								<li class="dropdown"><a href="#blogs">Blogs</a></li>
 							
 							</ul>
 						</div>

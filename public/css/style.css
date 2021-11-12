@@ -17304,8 +17304,8 @@ img.lazy-image.loaded {
   font-weight: bold;
   color: #fff;
   letter-spacing: .1em;
-  background-image: -webkit-gradient(linear, left top, right top, from(#ff9a61), color-stop(51%, #ff4b82), to(#ff9a61));
-  background-image: linear-gradient(to right, #ff9a61 0%, #ff4b82 51%, #ff9a61 100%);
+  background-image: -webkit-gradient(linear, left top, right top, from(#272343), color-stop(51%, #34a3a3), to(#34a3a3));
+  background-image: linear-gradient(to right, #272343  0%, #34a3a3  51%, #34a3a3  100%);
   background-size: 200% auto;
   -webkit-transition: .5s;
   transition: .5s;
@@ -17315,6 +17315,7 @@ img.lazy-image.loaded {
 
 .thm-btn__seven:hover {
   color: #fff;
+  background-image: linear-gradient(to left, #272343  0%, #34a3a3  51%, #34a3a3  100%);
   background-position: 100%;
 }
 
