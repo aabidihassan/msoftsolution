@@ -8,7 +8,8 @@
 <div class="side-menu__block-inner ">
     <div class="side-menu__top justify-content-end">
 
-        <a href="#" class="side-menu__toggler side-menu__close-btn"><img src="images/icons/close-1-1.png"
+        <a href="#" class="side-menu__toggler side-menu__close-btn">
+            <img src="images/icons/close-1-1.png"
                 alt=""></a>
     </div><!-- /.side-menu__top -->
 
@@ -18,9 +19,9 @@
     </nav>
     <div class="side-menu__sep"></div><!-- /.side-menu__sep -->
     <div class="side-menu__content">
-        <p>Linoor is a premium Template for Digital Agencies, Start Ups, Small Business and a wide range of
+        <p>MSoft Solution, blabla bla bla 
             other agencies.</p>
-        <p><a href="mailto:needhelp@linoor.com">needhelp@linoor.com</a> <br> <a href="tel:888-999-0000">888
+        <p><a href="mailto:msoftsolution.ma@gmail.com">msoftsolution.ma@gmail.com</a> <br> <a href="tel:888-999-0000">888
                 999 0000</a></p>
         <div class="side-menu__social">
             <a href="#"><i class="fab fa-facebook-square"></i></a>
