@@ -10,13 +10,10 @@
 							<div class="about-eight__icon">
 								<i class="flaticon-data"></i>
 							</div><!-- /.about-eight__icon -->
-							<h3 class="about-eight__title">Control <span>Everything</span> from
-								One Solution</h3><!-- /.about-eight__title -->
+							<h3 class="about-eight__title">Pourquoi  <span>Nous ?</span></h3><!-- /.about-eight__title -->
 							<p class="about-eight__summery">
-								Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-								nulla
-								pariatur. fur hat and fur boa who sat upright, raising a heavy fur muff that covered.
-							</p><!-- /.about-eight__summery -->
+							Notre mission c’est des mettres notre expérience durant toutes ces années pour satisfaire votre besoin
+						</p><!-- /.about-eight__summery -->
 
 							<div class="about-eight__progress-wrap">
 								<div class="about-eight__progress">
