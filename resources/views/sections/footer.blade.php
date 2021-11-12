@@ -59,3 +59,9 @@
 				</div><!-- /.row -->
 			</div><!-- /.auto-container -->
 		</footer><!-- /.footer-seven -->
+
+        <section class="footer-seven__copyright">
+			<div class="auto-container text-center">
+				<p>© copyright 2021 by <a href="http://www.msoftsolution.com/">MSOFT SOLUTION</a></p>
+			</div><!-- /.auto-container -->
+		</section><!-- /.footer-seven__copyright -->
