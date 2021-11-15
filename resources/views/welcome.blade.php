@@ -3,21 +3,31 @@
 @section('title', 'Home')
 
 
-@section('content')
-    @include('sections.home')
-    @include('sections.portfolio')
-    @include('sections.whyus')
+@section('content') 
+    @include('sections.home')       <!--Brief definition get startted demander le devis   -->
+    @include('sections.whyus') <!--a propos de nous    -->
+    @include('sections.portfolio')  
+    @include('sections.service')
+    @include('sections.team')
     @include('sections.recent-project')
+    @include('sections.sponsore')
     @include('sections.subscribe')
     @include('sections.footer')
 @stop
 
 
 <!-- 
-    home  =  slide :) 
-     portfolio = Over 2200 Projects Completed
-     subscribe  = subscribde
-     whyus =  why us 
-     recent project = les projects recent 
+                Brief definition (Get startted, Demander devis)
+                A propos de nous
+                Services
+                Les realisations
+                Pourquoi nos clients adorent travailler avec nous ?
+                FeedBack
+                Partenariats
+                Team
+                Contact
+                Demande de devis
+                Newsletter
+                Footer
      
  -->

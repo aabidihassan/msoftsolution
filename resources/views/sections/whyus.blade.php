@@ -1,52 +1,81 @@
-<div style="margin-top : 5%">
-    
 
-		<section class="about-eight">
-			<div class="auto-container">
-				<div class="row">
-					<div class="col-lg-6">
-						<div class="about-eight__content">
+<section class="agency-section">
+            <div class="auto-container">
+                <div class="row clearfix">
+                    <!--Left Column-->
+                    <div class="left-col col-xl-6 col-lg-12 col-md-12 col-sm-12">
+                        <div class="inner">
+                            <div class="sec-title">
+                                <h2>Best design Agency <br>solutions<span class="dot">.</span></h2>
+                            </div>
 
-							<div class="about-eight__icon">
-								<i class="flaticon-data"></i>
-							</div><!-- /.about-eight__icon -->
-							<h3 class="about-eight__title">Pourquoi  <span>Nous ?</span></h3><!-- /.about-eight__title -->
-							<p class="about-eight__summery">
-							Notre mission c’est des mettres notre expérience durant toutes ces années pour satisfaire votre besoin
-						</p><!-- /.about-eight__summery -->
+                            <!--Default Tabs-->
+                            <div class="default-tabs tabs-box">
 
-							<div class="about-eight__progress-wrap">
-								<div class="about-eight__progress">
-									<div class="about-eight__progress-top">
-										<p>Marketing</p>
-									</div><!-- /.about-eight__progress__top -->
-									<div class="about-eight__progress-line count-box">
-										<span data-percent="77%" class="count-bar">
-											<b><i class="count-text" data-stop="77" data-speed="1500">0</i>%</b>
-										</span>
-									</div><!-- /.about-eight__progress-line -->
-								</div><!-- /.about-eight__progress -->
-								<div class="about-eight__progress">
-									<div class="about-eight__progress-top">
-										<p>SEO Optimization</p>
-									</div><!-- /.about-eight__progress__top -->
-									<div class="about-eight__progress-line count-box">
-										<span data-percent="89%" class="count-bar">
-											<b><i class="count-text" data-stop="89" data-speed="1500">0</i>%</b>
-										</span>
-									</div><!-- /.about-eight__progress-line -->
-								</div><!-- /.about-eight__progress -->
-							</div><!-- /.about-eight__progress-wrap -->
-							<a href="#" class="about-eight__btn thm-btn__seven">Get Started</a><!-- /.thm-btn__seven -->
-						</div><!-- /.about-eight__content -->
+                                <!--Tab Btns-->
+                                <ul class="tab-btns tab-buttons clearfix">
+                                    <li data-tab="#tab-1" class="tab-btn active-btn"><span>Our Mission</span></li>
+                                    <li data-tab="#tab-2" class="tab-btn"><span>Our Vision</span></li>
+                                    <li data-tab="#tab-3" class="tab-btn"><span>Our History</span></li>
+                                </ul>
 
-					</div><!-- /.col-lg-6 -->
-					<div class="col-lg-6 wow fadeInRight" data-wow-duration="1500ms">
-						<div class="about-eight__image">
-							<img src="images/update-01-10-2021/resources/about-eight-1-1.png" alt="">
-						</div><!-- /.about-eight__image -->
-					</div><!-- /.col-lg-6 -->
-				</div><!-- /.row -->
-			</div><!-- /.auto-container -->
-		</section><!-- /.about-eight -->
-</div>
+                                <!--Tabs Container-->
+                                <div class="tabs-content">
+
+                                    <!--Tab-->
+                                    <div class="tab active-tab" id="tab-1">
+                                        <div class="content">
+                                            <div class="text">There are many variations of passages of avaialable but
+                                                the majority have in some form, by injected humou or words which don't
+                                                look even slightly believable. There are many variations of but the
+                                                majority have suffered.</div>
+                                        </div>
+                                    </div>
+
+                                    <!--Tab-->
+                                    <div class="tab" id="tab-2">
+                                        <div class="content">
+                                            <div class="text">There are many variations of passages of avaialable but
+                                                the majority have in some form, by injected humou or words which don't
+                                                look even slightly believable. There are many variations of but the
+                                                majority have suffered.</div>
+                                        </div>
+                                    </div>
+
+                                    <!--Tab-->
+                                    <div class="tab" id="tab-3">
+                                        <div class="content">
+                                            <div class="text">There are many variations of passages of avaialable but
+                                                the majority have in some form, by injected humou or words which don't
+                                                look even slightly believable. There are many variations of but the
+                                                majority have suffered.</div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--Right Column-->
+                    <div class="right-col col-xl-6 col-lg-12 col-md-12 col-sm-12">
+                        <div class="inner">
+                            <div class="text">There are many variations of passages of available but the majority have
+                                suffered alteration in some form, by injected humou or randomised words which don't look
+                                even slightly believable.</div>
+                            <div class="featured-block-two clearfix">
+                                <div class="image"><img src="images/resource/featured-image-6.jpg" alt=""></div>
+                                <div class="text">
+                                    <ul>
+                                        <li>Nsectetur cing elit.</li>
+                                        <li>Suspe ndisse suscipit sagittis leo.</li>
+                                        <li>Entum estibulum dignissim posuere.</li>
+                                        <li>If you are going to use a passage.</li>
+                                        <li>Lorem Ipsum on the tend to repeat.</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>

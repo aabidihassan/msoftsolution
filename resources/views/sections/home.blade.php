@@ -73,7 +73,7 @@
                         Links.</h3><!-- /.slider-seven__title -->
                     <p class="slider-seven__text">We’re committed to providing customers exceptional service
                         offering employees the best training.</p>
-                    <a href="#" class="slider-seven__btn thm-btn__seven">Get Started</a>
+                    <a href="#" class="slider-seven__btn thm-btn__seven">Get Started 2</a>
                     <!-- /.thm-btn__seven -->
                 </div><!-- /.slider-seven__content -->
             </div>
