@@ -5232,6 +5232,19 @@ img.lazy-image.loaded {
   padding: 120px 0px 90px;
   background: none;
   z-index: 2;
+  width: 80%;
+  height: auto;
+}
+@media screen and (max-width: 767px){
+  .sponsors-section{
+    margin-top: -80%;
+  }
+}
+
+@media(min-width: 767px){
+  .sponsors-section{
+    margin-top: -25%;
+  }
 }
 
 .team-section.no-padd-top {

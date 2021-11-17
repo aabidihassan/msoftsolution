@@ -1,8 +1,10 @@
-<section class="team-section ">
+<center>
+<section class="team-section">
             <div class="auto-container">
-                <div class="sec-title centered">
-                    <h2>Meet the expert team<span class="dot">.</span></h2>
-                </div>
+                <div class="sec-title-seven text-center">
+					<h2 class="sec-title-seven__title">Meet the expert team<span class="dot">.</span></h2>
+                    <!-- /.sec-title-seven__title -->
+				</div><!-- /.sec-title-seven -->
             </div>
             <div class="carousel-box">
                 <div class="team-carousel owl-theme owl-carousel">
@@ -78,3 +80,4 @@
                 </div>
             </div>
         </section>
+</center>
