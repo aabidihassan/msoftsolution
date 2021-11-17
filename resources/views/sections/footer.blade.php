@@ -60,7 +60,5 @@
 				</div><!-- /.row -->
 			</div><!-- /.auto-container -->
             <hr>
-				<center><p style="margin-bottom:-4%; margin-top:2%;"> copyright © 2021 by <a href="http://www.msoftsolution.com/">MSOFT SOLUTION</a> | Tous droits réservés</p></center>
-
-			</footer>
-		<!-- /.footer-seven -->
+				<center><p style="margin-bottom:-4%; margin-top:2%;">© Copyright 2021 By <a href="http://www.msoftsolution.com/">MSOFT SOLUTION</a></p></center>
+		</footer><!-- /.footer-seven -->

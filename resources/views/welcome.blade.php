@@ -12,6 +12,7 @@
     @include('sections.recent-project')
     @include('sections.sponsore')
     @include('sections.subscribe')
+    @include('sections.contact')
     @include('sections.footer')
 @stop
 
