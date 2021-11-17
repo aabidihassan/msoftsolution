@@ -1,5 +1,5 @@
 <!--Sponsors Section-->
-<section class="sponsors-section" style="margin-top : -25%">
+<section class="sponsors-section" >
             <div class="sponsors-outer">
                 <!--Sponsors-->
                 <div class="auto-container">
