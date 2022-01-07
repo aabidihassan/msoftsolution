@@ -1,5 +1,5 @@
 		<!--Contact Section-->
-		<section id="contact" class="contact-section contact-two">
+		<section id="contact" class="contact-section contact-two" style="margin-top:-22%;">
 			<div class="auto-container">
 				<div class="row">
 					<div class="col-lg-4">
