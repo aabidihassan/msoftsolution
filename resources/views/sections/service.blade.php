@@ -1,5 +1,5 @@
      <!--Services Section-->
-     <section class="services-section">
+     <section id="services" class="services-section">
             <div class="auto-container">
                 <div class="row clearfix">
                     <!--Title Block-->

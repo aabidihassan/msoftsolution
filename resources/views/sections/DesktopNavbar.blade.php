@@ -18,7 +18,6 @@
 								<li class="dropdown"><a href="#portfolio">Réalisation</a></li>
 								<li class="dropdown"><a href="#team">Team</a></li>
 								<li class="dropdown"><a href="#contact">Contact</a></li>
-								<li class="dropdown"><a href="#devis">Devis</a></li>
 							</ul>
 						</div>
 					</nav>

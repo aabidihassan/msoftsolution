@@ -1,5 +1,5 @@
 <center>
-<section class="team-section">
+<section id="team" class="team-section">
             <div class="auto-container">
                 <div class="sec-title-seven text-center">
 					<h2 class="sec-title-seven__title">Meet the expert team<span class="dot">.</span></h2>

@@ -7,28 +7,24 @@
     @include('sections.home')       <!--Brief definition get startted demander le devis   -->
     @include('sections.whyus') <!--a propos de nous    -->
     @include('sections.portfolio')  
-    @include('sections.service')
-    @include('sections.team')
-    @include('sections.recent-project')
-    @include('sections.sponsore')
-    @include('sections.subscribe')
-    @include('sections.contact')
-    @include('sections.footer')
+    @include('sections.service')<!--Services-->
+    @include('sections.team')<!--Team -->
+    @include('sections.recent-project')<!--Realisations -->
+    @include('sections.contact')<!--Contact -->
+    @include('sections.map')<!-- Map -->
+    @include('sections.subscribe')<!--NewsLetter -->
+    @include('sections.footer')<!--Footer -->
 @stop
 
 
 <!-- 
-                Brief definition (Get startted, Demander devis)
-                A propos de nous
-                Services
-                Les realisations
-                Pourquoi nos clients adorent travailler avec nous ?
-                FeedBack
-                Partenariats
-                Team
-                Contact
-                Demande de devis
-                Newsletter
-                Footer
+                --Definition (Get startted, Demander devis)
+                --Services
+                --Les realisations
+                --FeedBack
+                --Team
+                --Contact
+                --Newsletter
+                --Footer
      
  -->
