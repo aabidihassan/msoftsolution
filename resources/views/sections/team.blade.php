@@ -13,12 +13,12 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <a href="about.html"><img src="/images/Team/zack daoudi.png" alt=""></a>
-                                <ul class="social-links clearfix">
-                                    <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
-                                    <li><a href="#"><span class="fab fa-twitter"></span></a></li>
+                                <!--<ul class="social-links clearfix">
+                                     <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
+                                    <li><a href="#"><span class="fab fa-linkedin"></span></a></li>
                                     <li><a href="#"><span class="fab fa-instagram"></span></a></li>
-                                    <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
-                                </ul>
+                                    <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li> 
+                                </ul>-->
                             </div>
                             <div class="lower-box">
                                 <h5><a href="#">Zakaria Daoudi</a></h5>
@@ -29,13 +29,13 @@
                     <div class="team-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <a href="about.html"><img src="/images/Team/zack daoudi.png" alt=""></a>
-                                <ul class="social-links clearfix">
+                                <a href="about.html"><img src="/images/Team/hassan aabidi.png" alt=""></a>
+                                <!-- <ul class="social-links clearfix">
                                     <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                                     <li><a href="#"><span class="fab fa-twitter"></span></a></li>
                                     <li><a href="#"><span class="fab fa-instagram"></span></a></li>
                                     <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
-                                </ul>
+                                </ul> -->
                             </div>
                             <div class="lower-box">
                                 <h5><a href="#">Hassan Aabidi</a></h5>
@@ -46,30 +46,13 @@
                     <div class="team-block">
                         <div class="inner-box">
                             <div class="image-box">
-                                <a href="about.html"><img src="/images/Team/zack daoudi.png" alt=""></a>
-                                <ul class="social-links clearfix">
+                                <a href="about.html"><img src="/images/Team/zouhir.png" alt=""></a>
+                                <!-- <ul class="social-links clearfix">
                                     <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
                                     <li><a href="#"><span class="fab fa-twitter"></span></a></li>
                                     <li><a href="#"><span class="fab fa-instagram"></span></a></li>
                                     <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
-                                </ul>
-                            </div>
-                            <div class="lower-box">
-                                <h5><a href="#">Yasser Ezzahri</a></h5>
-                                <div class="designation">Développeur Back-End .NET</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="team-block">
-                        <div class="inner-box">
-                            <div class="image-box">
-                                <a href="about.html"><img src="/images/Team/zack daoudi.png" alt=""></a>
-                                <ul class="social-links clearfix">
-                                    <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
-                                    <li><a href="#"><span class="fab fa-twitter"></span></a></li>
-                                    <li><a href="#"><span class="fab fa-instagram"></span></a></li>
-                                    <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
-                                </ul>
+                                </ul> -->
                             </div>
                             <div class="lower-box">
                                 <h5><a href="#">Zouhir Yacouri</a></h5>
@@ -77,6 +60,24 @@
                             </div>
                         </div>
                     </div>
+                    <div class="team-block">
+                        <div class="inner-box">
+                            <div class="image-box">
+                                <a href="about.html"><img src="/images/Team/ezzahri.png" alt=""></a>
+                                <!-- <ul class="social-links clearfix">
+                                    <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
+                                    <li><a href="#"><span class="fab fa-twitter"></span></a></li>
+                                    <li><a href="#"><span class="fab fa-instagram"></span></a></li>
+                                    <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
+                                </ul> -->
+                            </div>
+                            <div class="lower-box">
+                                <h5><a href="#">Yasser Ezzahri</a></h5>
+                                <div class="designation">Développeur Back-End .NET</div>
+                            </div>
+                        </div>
+                    </div>
+                    
                 </div>
             </div>
         </section>
