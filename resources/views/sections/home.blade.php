@@ -33,12 +33,10 @@
             </div>
             <div class="auto-container">
                 <div class="slider-seven__content">
-                    <h3 class="slider-seven__title">We Deliver the
-                        <span>Quality</span> 
-                        Links.</h3><!-- /.slider-seven__title -->
-                    <p class="slider-seven__text">We’re committed to providing customers exceptional service
-                        offering employees the best training.</p>
-                    <a href="#" class="slider-seven__btn thm-btn__seven">Get Started</a>
+                    <h3 class="slider-seven__title">Agence de web digital et de communication 
+                        <span>basée au Maroc</span> </h3>
+                    <p class="slider-seven__text">Conseil et accompagnement de vos transformations digitales .</p>
+                    <a href="#" class="slider-seven__btn thm-btn__seven">Travaillez avec nous</a>
                     <!-- /.thm-btn__seven -->
                 </div><!-- /.slider-seven__content -->
             </div>
@@ -68,12 +66,10 @@
             </div>
             <div class="auto-container">
                 <div class="slider-seven__content">
-                    <h3 class="slider-seven__title">We Deliver the
-                        <span>Quality</span> Seo
-                        Links.</h3><!-- /.slider-seven__title -->
-                    <p class="slider-seven__text">We’re committed to providing customers exceptional service
-                        offering employees the best training.</p>
-                    <a href="#" class="slider-seven__btn thm-btn__seven">Get Started 2</a>
+                    <h3 class="slider-seven__title">Retrouvez plusieurs services d’accompagnement de votre 
+                        <span>projet digital</span> </h3>
+                    <p class="slider-seven__text">Notre approche et notre expertise combinées aident les entreprises à exceller.</p>
+                    <a href="#" class="slider-seven__btn thm-btn__seven">Découvrir nos services</a>
                     <!-- /.thm-btn__seven -->
                 </div><!-- /.slider-seven__content -->
             </div>
