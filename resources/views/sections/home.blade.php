@@ -33,8 +33,8 @@
             </div>
             <div class="auto-container">
                 <div class="slider-seven__content">
-                    <h3 class="slider-seven__title">Agence de web digital et de communication 
-                        <span>basée au Maroc</span> </h3>
+                    <h5 class="slider-seven__title">Agence de web digital et de communication 
+                        <span>basée au Maroc</span> </h5>
                     <p class="slider-seven__text">Conseil et accompagnement de vos transformations digitales .</p>
                     <a href="#" class="slider-seven__btn thm-btn__seven">Travaillez avec nous</a>
                     <!-- /.thm-btn__seven -->
