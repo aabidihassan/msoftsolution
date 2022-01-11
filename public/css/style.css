@@ -21115,8 +21115,8 @@ img.lazy-image.loaded {
 .slider-seven__title {
   margin: 0;
   color: var(--thm-black);
-  font-weight: 300;
-  font-size: 45px;
+  font-weight: 200;
+  font-size: 35px;
   line-height: 1;
   letter-spacing: -0.06em;
   -webkit-transform: translateY(-200px);
