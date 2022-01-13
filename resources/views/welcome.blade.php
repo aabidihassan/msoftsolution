@@ -8,7 +8,6 @@
     @include('sections.whyus') <!--a propos de nous    -->
     @include('sections.service')<!--Services-->
     @include('sections.team')<!--Team -->
-    @include('sections.recent-project')<!--Realisations -->
     @include('sections.contact')<!--Contact -->
     @include('sections.map')<!-- Map -->
     @include('sections.subscribe')<!--NewsLetter -->

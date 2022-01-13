@@ -26,8 +26,8 @@
                         data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="bottom-curve"></div>
-                            <div class="icon-box"><span class="flaticon-computer"></span></div>
-                            <h6><a href="graphic-designing.html">graphic <br>designing</a></h6>
+                            <div class="icon-box"><span class="flaticon-app-development"></span></div>
+                            <h6><a href="graphic-designing.html">Développement <br>mobile</a></h6>
                         </div>
                     </div>
                     <!--Service Block-->
@@ -36,7 +36,7 @@
                         <div class="inner-box">
                             <div class="bottom-curve"></div>
                             <div class="icon-box"><span class="flaticon-digital-marketing"></span></div>
-                            <h6><a href="digital-marketing.html">digital <br>marketing</a></h6>
+                            <h6><a href="digital-marketing.html">Marketing <br>digital</a></h6>
                         </div>
                     </div>
                     <!--Service Block-->
@@ -45,7 +45,7 @@
                         <div class="inner-box">
                             <div class="bottom-curve"></div>
                             <div class="icon-box"><span class="flaticon-development"></span></div>
-                            <h6><a href="seo.html">seo & content <br>writing</a></h6>
+                            <h6><a href="seo.html">Stratégie <br>digitale</a></h6>
                         </div>
                     </div>
                     <!--Service Block-->
@@ -53,7 +53,7 @@
                         data-wow-delay="600ms" data-wow-duration="1500ms">
                         <div class="inner-box">
                             <div class="bottom-curve"></div>
-                            <div class="icon-box"><span class="flaticon-app-development"></span></div>
+                            <div class="icon-box"><span class="flaticon-computer"></span></div>
                             <h6><a href="app-development.html">App <br>Development</a></h6>
                         </div>
                     </div>
@@ -63,7 +63,7 @@
                         <div class="inner-box">
                             <div class="bottom-curve"></div>
                             <div class="icon-box"><span class="flaticon-ui"></span></div>
-                            <h6><a href="ui-designing.html">Ui/UX <br>designing</a></h6>
+                            <h6><a href="ui-designing.html">UX/UI <br>design</a></h6>
                         </div>
                     </div>
                 </div>
