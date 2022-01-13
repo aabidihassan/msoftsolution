@@ -6,7 +6,6 @@
 @section('content') 
     @include('sections.home')       <!--Brief definition get startted demander le devis   -->
     @include('sections.whyus') <!--a propos de nous    -->
-    @include('sections.portfolio')  
     @include('sections.service')<!--Services-->
     @include('sections.team')<!--Team -->
     @include('sections.recent-project')<!--Realisations -->

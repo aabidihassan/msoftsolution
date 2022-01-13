@@ -3604,7 +3604,7 @@ img.lazy-image.loaded {
 .sec-title h2 {
   position: relative;
   display: block;
-  font-size: 70px;
+  font-size: 40px;
   line-height: 0.9em;
   text-transform: uppercase;
   color: var(--thm-black);
@@ -21127,7 +21127,7 @@ img.lazy-image.loaded {
   transition: opacity 1000ms ease, visibility 1000ms ease, -webkit-transform 1000ms ease;
   transition: transform 1000ms ease, opacity 1000ms ease, visibility 1000ms ease;
   transition: transform 1000ms ease, opacity 1000ms ease, visibility 1000ms ease, -webkit-transform 1000ms ease;
-  max-width: 516px;
+  max-width: 456px;
 }
 
 .slider-seven__title span {
@@ -21136,13 +21136,13 @@ img.lazy-image.loaded {
 
 @media (min-width: 992px) {
   .slider-seven__title {
-    font-size: 60px;
+    font-size: 30px;
   }
 }
 
 @media (min-width: 1200px) {
   .slider-seven__title {
-    font-size: 90px;
+    font-size: 60px;
   }
 }
 

@@ -6,9 +6,9 @@
                     <div class="title-block col-xl-6 col-lg-12 col-md-12 col-sm-12">
                         <div class="inner">
                             <div class="sec-title">
-                                <h2>We Shape the Perfect <br>Solutions<span class="dot">.</span></h2>
-                                <div class="lower-text">We are committed to providing our customers with exceptional
-                                    service while offering our employees the best training.</div>
+                                <h2>Nous développons des produits numériques pour votre succès en ligne<span class="dot">.</span></h2>
+                                <div class="lower-text">Notre équipe de jeunes talents chez MSS fabrique des produits et services numériques 
+                                    que les gens aiment utiliser.</div>
                             </div>
                         </div>
                     </div>
@@ -18,7 +18,7 @@
                         <div class="inner-box">
                             <div class="bottom-curve"></div>
                             <div class="icon-box"><span class="flaticon-responsive"></span></div>
-                            <h6><a href="web-development.html">Website <br>Development</a></h6>
+                            <h6>Développement<br>web</h6>
                         </div>
                     </div>
                     <!--Service Block-->
