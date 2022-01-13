@@ -27,7 +27,7 @@
                         <div class="inner-box">
                             <div class="bottom-curve"></div>
                             <div class="icon-box"><span class="flaticon-app-development"></span></div>
-                            <h6><a href="graphic-designing.html">Développement <br>mobile</a></h6>
+                            <h6>Développement <br>mobile</h6>
                         </div>
                     </div>
                     <!--Service Block-->
@@ -36,7 +36,7 @@
                         <div class="inner-box">
                             <div class="bottom-curve"></div>
                             <div class="icon-box"><span class="flaticon-digital-marketing"></span></div>
-                            <h6><a href="digital-marketing.html">Marketing <br>digital</a></h6>
+                            <h6>Marketing <br>digital</h6>
                         </div>
                     </div>
                     <!--Service Block-->
@@ -45,7 +45,7 @@
                         <div class="inner-box">
                             <div class="bottom-curve"></div>
                             <div class="icon-box"><span class="flaticon-development"></span></div>
-                            <h6><a href="seo.html">Stratégie <br>digitale</a></h6>
+                            <h6>Stratégie <br>digitale</h6>
                         </div>
                     </div>
                     <!--Service Block-->
@@ -54,7 +54,7 @@
                         <div class="inner-box">
                             <div class="bottom-curve"></div>
                             <div class="icon-box"><span class="flaticon-computer"></span></div>
-                            <h6><a href="app-development.html">App <br>Development</a></h6>
+                            <h6>Branding & création <br>d’identité visuelle</h6>
                         </div>
                     </div>
                     <!--Service Block-->
@@ -63,7 +63,7 @@
                         <div class="inner-box">
                             <div class="bottom-curve"></div>
                             <div class="icon-box"><span class="flaticon-ui"></span></div>
-                            <h6><a href="ui-designing.html">UX/UI <br>design</a></h6>
+                            <h6>UX/UI <br>design</h6>
                         </div>
                     </div>
                 </div>
