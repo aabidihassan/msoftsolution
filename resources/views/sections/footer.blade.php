@@ -18,26 +18,26 @@
 						<div class="footer-seven__widget footer-seven__links">
 							<h3 class="footer-seven__title">Explore</h3><!-- /.footer-seven__title -->
 							<ul class="list-unstyled footer-seven__links__list">
-								<li> <a href="#home">Home</a> </li>
+								<li> <a href="#home">Accueil</a> </li>
+								<li> <a href="#about">À Propos</a> </li>
 								<li> <a href="#services">Services</a> </li>
-								<li> <a href="#portfolio">Portfolio</a> </li>
+								<li> <a href="#team">Equipe</a> </li>
 								<li> <a href="#contact">Contact</a> </li>
-								<li> <a href="#carrers">Carrers</a> </li>
-                                <li> <a href="#blogs">Blogs</a> </li>
 							</ul><!-- /.list-unstyled footer-seven__links__list -->
 						</div><!-- /.footer-seven__widget footer-seven__links -->
 					</div><!-- /.col-md-6 col-lg-2 -->
 					<div class="col-md-6 col-lg-2">
 						<div class="footer-seven__widget footer-seven__links">
-							<h3 class="footer-seven__title">Services</h3><!-- /.footer-seven__title -->
+							<h3 class="footer-seven__title">Services</h3>
 							<ul class="list-unstyled footer-seven__links__list">
-								<li><a href="#">Speed Optimization</a></li>
-								<li><a href="#">Marketing Analysis</a></li>
-								<li><a href="#">SEO and Backlinks</a></li>
-								<li><a href="#">Content Marketing</a></li>
-							</ul><!-- /.list-unstyled footer-seven__links__list -->
-						</div><!-- /.footer-seven__widget footer-seven__links -->
-					</div><!-- /.col-md-6 col-lg-2 -->
+								<li><a href="#services">Développement Web</a></li>
+								<li><a href="#services">Développement Mobile</a></li>
+								<li><a href="#services">Marketing Digital </a></li>
+								<li><a href="#services">UX/UI Design</a></li>
+
+							</ul>
+						</div>
+					</div>
 					<div class="col-md-6 col-lg-2">
 						<div class="footer-seven__widget footer-seven__links">
 							<h3 class="footer-seven__title">Links</h3><!-- /.footer-seven__title -->

@@ -5257,7 +5257,7 @@ img.lazy-image.loaded {
 }
 
 .team-block {
-  position: relative;
+  /* position: relative; */
   margin-bottom: 30px;
 }
 

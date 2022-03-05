@@ -11,12 +11,12 @@
 								Nous développons pour eux des applications et des solutions mobiles, des sites et des plateformes web de qualité,
 								 des marques et des identités visuelles exceptionnelles.</p>
 							<!-- /.contact-two__text -->
-							<div class="contact-two__social">
+							<!-- <div class="contact-two__social">
 								<a href="#" class="fab fa-twitter"></a>
 								<a href="#" class="fab fa-facebook"></a>
 								<a href="#" class="fab fa-pinterest-p"></a>
-								<a href="#" class="fab fa-instagram"></a>
-							</div><!-- /.contact-two__social -->
+								<a href="#" class="fab fa-instagram"></a> -->
+							<!-- </div>/.contact-two__social -->
 						</div><!-- /.contact-two__content -->
 					</div><!-- /.col-lg-4 -->
 					<div class="col-lg-8">

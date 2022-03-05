@@ -13,12 +13,7 @@
                         <div class="inner-box">
                             <div class="image-box">
                                 <a href="about.html"><img src="/images/Team/zack daoudi.png" alt=""></a>
-                                <!--<ul class="social-links clearfix">
-                                     <li><a href="#"><span class="fab fa-facebook-square"></span></a></li>
-                                    <li><a href="#"><span class="fab fa-linkedin"></span></a></li>
-                                    <li><a href="#"><span class="fab fa-instagram"></span></a></li>
-                                    <li><a href="#"><span class="fab fa-pinterest-p"></span></a></li> 
-                                </ul>-->
+                                
                             </div>
                             <div class="lower-box">
                                 <h5><a href="#">Zakaria Daoudi</a></h5>

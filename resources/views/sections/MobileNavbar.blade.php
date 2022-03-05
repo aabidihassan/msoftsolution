@@ -19,8 +19,8 @@
     </nav>
     <div class="side-menu__sep"></div><!-- /.side-menu__sep -->
     <div class="side-menu__content">
-        <p>MSoft Solution, blabla bla bla 
-            other agencies.</p>
+        <p>Agence de web digital et de communication
+        Conseil et accompagnement de vos transformations digitales.</p>
         <p><a href="mailto:msoftsolution.ma@gmail.com">msoftsolution.ma@gmail.com</a> <br> <a href="tel:888-999-0000">888
                 999 0000</a></p>
         <div class="side-menu__social">
